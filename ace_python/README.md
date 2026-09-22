@@ -1,4 +1,4 @@
-# ⬡ ACE — Autonomous Cognitive Engine
+# ACE — Autonomous Cognitive Engine
 
 > A multi-agent deep research system with LangGraph-style orchestration, specialized AI agents, virtual file system, and Streamlit UI.
 
@@ -51,7 +51,7 @@ User Query
 - **6 Specialized Nodes**: Supervisor, Planner, Research, Summarizer, Reporter, Memory
 - **Virtual File System**: Intermediate results stored and retrieved during execution
 - **Memory Context**: Each agent has access to prior findings for coherent research
-- **Web Search**: DuckDuckGo integration for real-time information (optional)
+- **Web Search**: DuckDuckGo integration for real-time information
 - **Streaming**: Live output streaming during agent execution
 - **Streamlit UI**: Dark-themed, professional interface with real-time updates
 - **Task Management**: Full TODO lifecycle (Pending → In Progress → Completed)
